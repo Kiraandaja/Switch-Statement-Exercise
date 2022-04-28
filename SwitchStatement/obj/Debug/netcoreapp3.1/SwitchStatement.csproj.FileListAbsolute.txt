@@ -1,0 +1,13 @@
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.csproj.AssemblyReference.cache
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.AssemblyInfoInputs.cache
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.AssemblyInfo.cs
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.csproj.CoreCompileInputs.cache
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/bin/Debug/netcoreapp3.1/SwitchStatement.deps.json
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/bin/Debug/netcoreapp3.1/SwitchStatement.runtimeconfig.json
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/bin/Debug/netcoreapp3.1/SwitchStatement.runtimeconfig.dev.json
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/bin/Debug/netcoreapp3.1/SwitchStatement.dll
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/bin/Debug/netcoreapp3.1/SwitchStatement.pdb
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.dll
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.pdb
+/Users/takiragray/Desktop/Repos/SwitchStatementExercise/SwitchStatement/obj/Debug/netcoreapp3.1/SwitchStatement.genruntimeconfig.cache
